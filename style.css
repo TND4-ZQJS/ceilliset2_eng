@@ -16,6 +16,7 @@ body {
   padding: 30px;
   margin: auto;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  text-align: left;
 }
 
 /* ==== QUESTION TEXT ==== */
@@ -28,6 +29,7 @@ body {
 #question-text {
   font-size: 16px;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 /* ==== OPTIONS ==== */
@@ -41,6 +43,7 @@ body {
   font-size: 16px;
   text-align: left;
   background-color: #ffffff;
+  text-align: left;
 
   /* Safari & mobile compatibility */
   color: #1d1d1f !important;
