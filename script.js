@@ -2,7 +2,7 @@ let currentQuestion = 1;
 let questions = [];
 let score = 0;
 
-fetch('ceilli3mock_65.json')
+fetch('ceillimock_set2.json')
   .then(response => response.json())
   .then(data => {
     questions = data;
