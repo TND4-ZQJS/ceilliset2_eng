@@ -178,3 +178,36 @@ input[type="number"] {
   text-align: left;
   display: none;
 }
+
+/* Resume banner styling */
+.resume-banner {
+  background-color: #e0f7e9;
+  color: #0b5e3d;
+  padding: 10px 14px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 14px;
+  position: relative;
+  display: none;
+  opacity: 1;
+  transition: opacity 0.5s ease-out;
+  text-align: center;
+}
+
+.resume-banner.fade-out {
+  opacity: 0;
+}
+
+.close-btn {
+  position: absolute;
+  right: 12px;
+  top: 6px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #0b5e3d;
+}
+.close-btn:hover {
+  color: #065c38;
+}
