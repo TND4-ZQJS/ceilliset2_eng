@@ -19,7 +19,7 @@ function displayQuestion(num) {
   const q = questions[num - 1];
   if (!q) return;
 
-  document.getElementById('question-number').innerText = `Question ${q.questionNumber}`;
+  document.getElementById('question-number').innerHTML = `Question ${q.questionNumber} <span class="total-count">of ${questions.length}</span>`;
   document.getElementById('question-text').innerText = q.question;
 
   const optionsContainer = document.getElementById('options-container');
