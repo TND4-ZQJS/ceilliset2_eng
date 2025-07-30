@@ -1,663 +1,662 @@
 [
-  {
-    "questionNumber": 1,
-    "question": "What is an investment-linked policy?",
-    "options": {
-      "A": "A participating whole life policy",
-      "B": "A capital and returns guaranteed policy",
-      "C": "An endowment policy only",
-      "D": "A plan that offers clients’ coverage and investment returns"
+    {
+        "questionNumber": 1,
+        "question": "What is an investment-linked policy?",
+        "options": {
+            "A": "A participating whole life policy",
+            "B": "A capital and returns guaranteed policy",
+            "C": "An endowment policy only",
+            "D": "A plan that offers clients’ coverage and investment returns"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 2,
-    "question": "All the following statements are TRUE EXCEPT:",
-    "options": {
-      "A": "The investment-linked policy is directly linked to investment performance",
-      "B": "Once the policy is in-force, the clients’ investments will grow steadily",
-      "C": "Fund managers will make sure that the investment-linked policy is shielded from market fluctuations",
-      "D": "The investment-linked policy only provides coverage and nothing else"
+    {
+        "questionNumber": 2,
+        "question": "All the following statements are TRUE EXCEPT:",
+        "options": {
+            "A": "The investment-linked policy is directly linked to investment performance",
+            "B": "Once the policy is in-force, the clients’ investments will grow steadily",
+            "C": "Fund managers will make sure that the investment-linked policy is shielded from market fluctuations",
+            "D": "The investment-linked policy only provides coverage and nothing else"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 3,
-    "question": "Investment-linked Insurance policy is named as the following around the world EXCEPT:",
-    "options": {
-      "A": "Mutual fund-linked policy",
-      "B": "Unit-linked policy",
-      "C": "Variable life policy",
-      "D": "Takaful investment-linked life"
+    {
+        "questionNumber": 3,
+        "question": "Investment-linked Insurance policy is named as the following around the world EXCEPT:",
+        "options": {
+            "A": "Mutual fund-linked policy",
+            "B": "Unit-linked policy",
+            "C": "Variable life policy",
+            "D": "Takaful investment-linked life"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 4,
-    "question": "“... is designed to shift the uncertainties of investment gains or losses to the policy holders...” The excerpt describes what of the following accurately?",
-    "options": {
-      "A": "Policyholders who choose to take investment-linked policies must realize that they are also responsible to monitor the performance of their policy to ensure a reasonable return",
-      "B": "The chances that the policy values going to zero is impossible because the Fund Managers, companies and agents will ensure that the policy is profitable at all times",
-      "C": "Insurance companies, fund managers will wash their hands off the policy once the policy is taken and leave it solely to the agents and policy holders to monitor it",
-      "D": "Agents are responsible to the clients’ only and must ensure that they monitor the policy at all times"
+    {
+        "questionNumber": 4,
+        "question": "“... is designed to shift the uncertainties of investment gains or losses to the policy holders...” The excerpt describes what of the following accurately?",
+        "options": {
+            "A": "Policyholders who choose to take investment-linked policies must realize that they are also responsible to monitor the performance of their policy to ensure a reasonable return",
+            "B": "The chances that the policy values going to zero is impossible because the Fund Managers, companies and agents will ensure that the policy is profitable at all times",
+            "C": "Insurance companies, fund managers will wash their hands off the policy once the policy is taken and leave it solely to the agents and policy holders to monitor it",
+            "D": "Agents are responsible to the clients’ only and must ensure that they monitor the policy at all times"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 5,
-    "question": "An investment-linked plan has the following features:\nI. Provide cover for death and total permanent disability.\nII. Participate in investments managed by the insurer.\nIII. Can provide a good return if monitored well.\nIV. Largely depends on the clients’ ability to be good at investing in equities market.",
-    "options": {
-      "A": "I,II and IV",
-      "B": "I,III and IV",
-      "C": "II,III and IV",
-      "D": "I,II and III"
+    {
+        "questionNumber": 5,
+        "question": "An investment-linked plan has the following features:\nI. Provide cover for death and total permanent disability.\nII. Participate in investments managed by the insurer.\nIII. Can provide a good return if monitored well.\nIV. Largely depends on the clients’ ability to be good at investing in equities market.",
+        "options": {
+            "A": "I,II and IV",
+            "B": "I,III and IV",
+            "C": "II,III and IV",
+            "D": "I,II and III"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 6,
-    "question": "An agent owes the client a moral obligation to",
-    "options": {
-      "A": "Educate a client to be an expert investor",
-      "B": "To recommend specific funds to invest in",
-      "C": "Educate clients’ with some basic and sound investment principles",
-      "D": "Make decisions on behalf of the client"
+    {
+        "questionNumber": 6,
+        "question": "An agent owes the client a moral obligation to",
+        "options": {
+            "A": "Educate a client to be an expert investor",
+            "B": "To recommend specific funds to invest in",
+            "C": "Educate clients’ with some basic and sound investment principles",
+            "D": "Make decisions on behalf of the client"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 7,
-    "question": "What considerations must be taken before making an investment decision?\nI. Investment objectives, Availability of Funds, Diversification.\nII. Risk or Security, Promised Money, Tax issues.\nIII. Investment Horizon, Performance of Investment, Accessibility of Funds.\nIV. Economic Reports, Insurance Companies Asset base, Government Regulations.",
-    "options": {
-      "A": "I and III",
-      "B": "I and II",
-      "C": "I and IV",
-      "D": "III and IV"
+    {
+        "questionNumber": 7,
+        "question": "What considerations must be taken before making an investment decision?\nI. Investment objectives, Availability of Funds, Diversification.\nII. Risk or Security, Promised Money, Tax issues.\nIII. Investment Horizon, Performance of Investment, Accessibility of Funds.\nIV. Economic Reports, Insurance Companies Asset base, Government Regulations.",
+        "options": {
+            "A": "I and III",
+            "B": "I and II",
+            "C": "I and IV",
+            "D": "III and IV"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 8,
-    "question": "Clients want to invest:\nI. To lead a comfortable lifestyle\nII. To be comfortable during retirement\nIII. To amass great wealth\nIV. To provide adequate funding for their children’s needs",
-    "options": {
-      "A": "I,III and IV",
-      "B": "I,II and III",
-      "C": "I,II and IV",
-      "D": "II,III and IV"
+    {
+        "questionNumber": 8,
+        "question": "Clients want to invest:\nI. To lead a comfortable lifestyle\nII. To be comfortable during retirement\nIII. To amass great wealth\nIV. To provide adequate funding for their children’s needs",
+        "options": {
+            "A": "I,III and IV",
+            "B": "I,II and III",
+            "C": "I,II and IV",
+            "D": "II,III and IV"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 9,
-    "question": "What must an agent do to ensure the client is given proper advice on investment?",
-    "options": {
-      "A": "Ensure that there is a right combination of objectives and make sure proper risk analysis is done",
-      "B": "Show the wide selection of investment for the client to choose from",
-      "C": "Motivate the client to borrow money to invest in guaranteed investment vehicles",
-      "D": "Ensure that the advice is advantageous to the agent and the insurance company"
+    {
+        "questionNumber": 9,
+        "question": "What must an agent do to ensure the client is given proper advice on investment?",
+        "options": {
+            "A": "Ensure that there is a right combination of objectives and make sure proper risk analysis is done",
+            "B": "Show the wide selection of investment for the client to choose from",
+            "C": "Motivate the client to borrow money to invest in guaranteed investment vehicles",
+            "D": "Ensure that the advice is advantageous to the agent and the insurance company"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 10,
-    "question": "Why is diversification in investment recommended?\nI. So as not to be exposed in one particular class of investments\nII. To even out market fluctuations and not suffer too much losses\nIII. To ensure the investments will always do well\nIV. To ensure that they can realize their financial objectives faster",
-    "options": {
-      "A": "I and III",
-      "B": "I and II",
-      "C": "II and IV",
-      "D": "III and IV"
+    {
+        "questionNumber": 10,
+        "question": "Why is diversification in investment recommended?\nI. So as not to be exposed in one particular class of investments\nII. To even out market fluctuations and not suffer too much losses\nIII. To ensure the investments will always do well\nIV. To ensure that they can realize their financial objectives faster",
+        "options": {
+            "A": "I and III",
+            "B": "I and II",
+            "C": "II and IV",
+            "D": "III and IV"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 11,
-    "question": "The following instruments fall under corporate bonds EXCEPT:",
-    "options": {
-      "A": "Debenture stocks",
-      "B": "Loan stocks",
-      "C": "Convertible stocks",
-      "D": "Warrants"
+    {
+        "questionNumber": 11,
+        "question": "The following instruments fall under corporate bonds EXCEPT:",
+        "options": {
+            "A": "Debenture stocks",
+            "B": "Loan stocks",
+            "C": "Convertible stocks",
+            "D": "Warrants"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 12,
-    "question": "What is the disadvantage of investing in unit trusts?",
-    "options": {
-      "A": "Unit trusts have lower risk compared to shares",
-      "B": "They are managed by professional investment teams",
-      "C": "Extra costs and charges are included in this vehicle",
-      "D": "Income dividend can be reinvested"
+    {
+        "questionNumber": 12,
+        "question": "What is the disadvantage of investing in unit trusts?",
+        "options": {
+            "A": "Unit trusts have lower risk compared to shares",
+            "B": "They are managed by professional investment teams",
+            "C": "Extra costs and charges are included in this vehicle",
+            "D": "Income dividend can be reinvested"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 13,
-    "question": "Sukuk bonds have the following characteristics EXCEPT:",
-    "options": {
-      "A": "They are issued by pooled funds",
-      "B": "They adhere to strict Syariah principles",
-      "C": "They can be guaranteed or not by their originators",
-      "D": "They can only be bought by Banks and Financial Institutions"
+    {
+        "questionNumber": 13,
+        "question": "Sukuk bonds have the following characteristics EXCEPT:",
+        "options": {
+            "A": "They are issued by pooled funds",
+            "B": "They adhere to strict Syariah principles",
+            "C": "They can be guaranteed or not by their originators",
+            "D": "They can only be bought by Banks and Financial Institutions"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 14,
-    "question": "Mr. Indran wants to invest his money in a conservative steady income generating investment vehicles. Your suggestion to him would be to put his money in:\nI. Treasury Bills, Sukuk Bonds, REITs\nII. Preference Shares, Warrants, Derivatives\nIII. Fixed Income Securities, Government Bonds, Corporate Bonds\nIV. Commodities, Futures, REITs",
-    "options": {
-      "A": "I,II,III and IV",
-      "B": "I and III",
-      "C": "II and III",
-      "D": "III and IV"
+    {
+        "questionNumber": 14,
+        "question": "Mr. Indran wants to invest his money in a conservative steady income generating investment vehicles. Your suggestion to him would be to put his money in:\nI. Treasury Bills, Sukuk Bonds, REITs\nII. Preference Shares, Warrants, Derivatives\nIII. Fixed Income Securities, Government Bonds, Corporate Bonds\nIV. Commodities, Futures, REITs",
+        "options": {
+            "A": "I,II,III and IV",
+            "B": "I and III",
+            "C": "II and III",
+            "D": "III and IV"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 15,
-    "question": "Adam lives in the UK. He was impressed by the investment-linked life insurance policy that you have bought in Malaysia. He is now back to London and wants to buy a similar plan. What plan should he buy from his agent?",
-    "options": {
-      "A": "Investment-Linked Life Insurance Plan",
-      "B": "Universal-Variable Life Insurance Plan",
-      "C": "Variable Life Insurance Plan",
-      "D": "Unit-Linked Life Insurance Plan"
+    {
+        "questionNumber": 15,
+        "question": "Adam lives in the UK. He was impressed by the investment-linked life insurance policy that you have bought in Malaysia. He is now back to London and wants to buy a similar plan. What plan should he buy from his agent?",
+        "options": {
+            "A": "Investment-Linked Life Insurance Plan",
+            "B": "Universal-Variable Life Insurance Plan",
+            "C": "Variable Life Insurance Plan",
+            "D": "Unit-Linked Life Insurance Plan"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 16,
-    "question": "The takaful investment-linked life insurance plan was developed due to…",
-    "options": {
-      "A": "Meeting the market demands and financial demands",
-      "B": "The response to the religious principles and practices of the Muslims",
-      "C": "The fact that there were no products suitable for Muslims in Malaysia before this",
-      "D": "Tap into a vast and very lucrative insurance market"
+    {
+        "questionNumber": 16,
+        "question": "The takaful investment-linked life insurance plan was developed due to…",
+        "options": {
+            "A": "Meeting the market demands and financial demands",
+            "B": "The response to the religious principles and practices of the Muslims",
+            "C": "The fact that there were no products suitable for Muslims in Malaysia before this",
+            "D": "Tap into a vast and very lucrative insurance market"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 17,
-    "question": "All the following statements are false EXCEPT:",
-    "options": {
-      "A": "Takaful Insurance plans can only be sold by Islamic insurance companies",
-      "B": "All insurance companies can develop and sell Takaful products as they wish",
-      "C": "Takaful insurance products must adhere to the Syariah law requirements",
-      "D": "Takaful insurance can only be sold to and purchased by Muslims in Malaysia"
+    {
+        "questionNumber": 17,
+        "question": "All the following statements are false EXCEPT:",
+        "options": {
+            "A": "Takaful Insurance plans can only be sold by Islamic insurance companies",
+            "B": "All insurance companies can develop and sell Takaful products as they wish",
+            "C": "Takaful insurance products must adhere to the Syariah law requirements",
+            "D": "Takaful insurance can only be sold to and purchased by Muslims in Malaysia"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 18,
-    "question": "During a market crash, which fund suffers the biggest fall?",
-    "options": {
-      "A": "Funds that mainly invest in cash instruments like fixed deposits, treasury bills, government bonds",
-      "B": "Funds that invest in overseas properties, REITs and growth stocks",
-      "C": "Funds that invest in fixed income funds, balanced funds and Sukuk Bonds",
-      "D": "Funds that invest in equities market both locally and overseas"
+    {
+        "questionNumber": 18,
+        "question": "During a market crash, which fund suffers the biggest fall?",
+        "options": {
+            "A": "Funds that mainly invest in cash instruments like fixed deposits, treasury bills, government bonds",
+            "B": "Funds that invest in overseas properties, REITs and growth stocks",
+            "C": "Funds that invest in fixed income funds, balanced funds and Sukuk Bonds",
+            "D": "Funds that invest in equities market both locally and overseas"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 19,
-    "question": "Funds that basically invest in government, corporate and fixed income instruments seeking income producing characteristics are known as:",
-    "options": {
-      "A": "Balanced fund",
-      "B": "Cash fund",
-      "C": "Bond fund",
-      "D": "Specialized fund"
+    {
+        "questionNumber": 19,
+        "question": "Funds that basically invest in government, corporate and fixed income instruments seeking income producing characteristics are known as:",
+        "options": {
+            "A": "Balanced fund",
+            "B": "Cash fund",
+            "C": "Bond fund",
+            "D": "Specialized fund"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-[
-  {
-    "questionNumber": 20,
-    "question": "Switching of funds happen in unit trust and investment-linked products. Switching is advantageous because…",
-    "options": {
-      "A": "It allows the smoothening process of uncertain market conditions",
-      "B": "It allows the clients to make huge profits whence switches are done",
-      "C": "It is a method to safeguard your principal invested",
-      "D": "It is good because the client does not incur any charges related to constant switches"
+    {
+        "questionNumber": 20,
+        "question": "Switching of funds happen in unit trust and investment-linked products. Switching is advantageous because…",
+        "options": {
+            "A": "It allows the smoothening process of uncertain market conditions",
+            "B": "It allows the clients to make huge profits whence switches are done",
+            "C": "It is a method to safeguard your principal invested",
+            "D": "It is good because the client does not incur any charges related to constant switches"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 21,
-    "question": "Rahim is a very cautious investor. He wants steady income and to safe-guard his principal amount invested. Where would you suggest he puts his money?\nI. Government, Corporate and Sukuk Bonds\nII. Fixed income instruments\nIII. Cash funds\nIV. Specialized funds",
-    "options": {
-      "A": "I, II and IV",
-      "B": "II,III and IV",
-      "C": "I,II and III",
-      "D": "I,III and IV"
+    {
+        "questionNumber": 21,
+        "question": "Rahim is a very cautious investor. He wants steady income and to safe-guard his principal amount invested. Where would you suggest he puts his money?\nI. Government, Corporate and Sukuk Bonds\nII. Fixed income instruments\nIII. Cash funds\nIV. Specialized funds",
+        "options": {
+            "A": "I, II and IV",
+            "B": "II,III and IV",
+            "C": "I,II and III",
+            "D": "I,III and IV"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 22,
-    "question": "Chee Seng wants to have a specific amount of money in 10 years. He is not averse to risk. He wants your suggestion. Where can he put his money?\nI. In a unit trust and investment-linked product that is heavy into equities\nII. In a fund that specifically targets on high growth\nIII. In a fund that is mainly invested in government securities\nIV. In a bank deposit and cash fund",
-    "options": {
-      "A": "I,II and III",
-      "B": "I and II",
-      "C": "I,III and IV",
-      "D": "III and IV"
+    {
+        "questionNumber": 22,
+        "question": "Chee Seng wants to have a specific amount of money in 10 years. He is not averse to risk. He wants your suggestion. Where can he put his money?\nI. In a unit trust and investment-linked product that is heavy into equities\nII. In a fund that specifically targets on high growth\nIII. In a fund that is mainly invested in government securities\nIV. In a bank deposit and cash fund",
+        "options": {
+            "A": "I,II and III",
+            "B": "I and II",
+            "C": "I,III and IV",
+            "D": "III and IV"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 23,
-    "question": "Which of the following statement is FALSE?",
-    "options": {
-      "A": "Bond funds can be found in the private sector",
-      "B": "Bond funds can be found in the public sector",
-      "C": "Bond funds are also called “fixed income funds”",
-      "D": "None of the above"
+    {
+        "questionNumber": 23,
+        "question": "Which of the following statement is FALSE?",
+        "options": {
+            "A": "Bond funds can be found in the private sector",
+            "B": "Bond funds can be found in the public sector",
+            "C": "Bond funds are also called “fixed income funds”",
+            "D": "None of the above"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 24,
-    "question": "Generally people will choose between investing in assets that generate:\nI. Regular income\nII. Irregular income\nIII. Unpredictable gains or income\nIV. Capital gains",
-    "options": {
-      "A": "I and II",
-      "B": "II and III",
-      "C": "I and IV",
-      "D": "III and IV"
+    {
+        "questionNumber": 24,
+        "question": "Generally people will choose between investing in assets that generate:\nI. Regular income\nII. Irregular income\nIII. Unpredictable gains or income\nIV. Capital gains",
+        "options": {
+            "A": "I and II",
+            "B": "II and III",
+            "C": "I and IV",
+            "D": "III and IV"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 25,
-    "question": "Top-ups are allowed in investment-linked policies. What happens to the total premium paid under the top-up?",
-    "options": {
-      "A": "The company converts the total top-up premium and accumulates it into the existing account",
-      "B": "The company opens a new account and deposits the converted top-up units into this account",
-      "C": "The company deposits the top-up premium into the existing account and levies all charges as per the original policy",
-      "D": "The company will use the top-up premium minus the top-up charges and deposit the units into the policy owner’s account"
+    {
+        "questionNumber": 25,
+        "question": "Top-ups are allowed in investment-linked policies. What happens to the total premium paid under the top-up?",
+        "options": {
+            "A": "The company converts the total top-up premium and accumulates it into the existing account",
+            "B": "The company opens a new account and deposits the converted top-up units into this account",
+            "C": "The company deposits the top-up premium into the existing account and levies all charges as per the original policy",
+            "D": "The company will use the top-up premium minus the top-up charges and deposit the units into the policy owner’s account"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 26,
-    "question": "A company can use the following methods in an investment-linked policies death claim payout:\nI. Upon a Death claim being submitted, the company will pay only the claim based on the total unit accumulation multiplied by the unit price\nII. Upon a Death claim being submitted, the company will pay the face amount of the initial death coverage irrespective of unit accumulations\nIII. Upon a Death claim being submitted, the company will pay the unit value plus the sum assured\nIV. Upon a death claim being submitted, the company will pay only the unit value plus the sum assured and any top-up amounts separately",
-    "options": {
-      "A": "I, II and III",
-      "B": "I,II and IV",
-      "C": "I,III and IV",
-      "D": "I,II,III and IV"
+    {
+        "questionNumber": 26,
+        "question": "A company can use the following methods in an investment-linked policies death claim payout:\nI. Upon a Death claim being submitted, the company will pay only the claim based on the total unit accumulation multiplied by the unit price\nII. Upon a Death claim being submitted, the company will pay the face amount of the initial death coverage irrespective of unit accumulations\nIII. Upon a Death claim being submitted, the company will pay the unit value plus the sum assured\nIV. Upon a death claim being submitted, the company will pay only the unit value plus the sum assured and any top-up amounts separately",
+        "options": {
+            "A": "I, II and III",
+            "B": "I,II and IV",
+            "C": "I,III and IV",
+            "D": "I,II,III and IV"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 27,
-    "question": "In a regular premium investment-linked policy, the policy holder can do the following EXCEPT:",
-    "options": {
-      "A": "Have a premium holiday if there are sufficient funds in the policy",
-      "B": "Increase or decrease his sum assured according to his present needs",
-      "C": "Increase his premium payments with regular premium top-ups and single top-ups",
-      "D": "Have his cover cancelled and only ensure his premiums are used for investments"
+    {
+        "questionNumber": 27,
+        "question": "In a regular premium investment-linked policy, the policy holder can do the following EXCEPT:",
+        "options": {
+            "A": "Have a premium holiday if there are sufficient funds in the policy",
+            "B": "Increase or decrease his sum assured according to his present needs",
+            "C": "Increase his premium payments with regular premium top-ups and single top-ups",
+            "D": "Have his cover cancelled and only ensure his premiums are used for investments"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 28,
-    "question": "The benefits of an investment-linked policy are as follows:\nI. The ability of the company to pool and diversify\nII. The flexibility it offers\nIII. The minimal charges levied on the policy\nIV. The insulation of market risks by the company for the client",
-    "options": {
-      "A": "I,II",
-      "B": "II,IV",
-      "C": "I,III",
-      "D": "III,IV"
+    {
+        "questionNumber": 28,
+        "question": "The benefits of an investment-linked policy are as follows:\nI. The ability of the company to pool and diversify\nII. The flexibility it offers\nIII. The minimal charges levied on the policy\nIV. The insulation of market risks by the company for the client",
+        "options": {
+            "A": "I,II",
+            "B": "II,IV",
+            "C": "I,III",
+            "D": "III,IV"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 29,
-    "question": "The flexibility offered by the investment-linked policy includes the following:\nI. Policy owner can ascertain the level of premium that needs to be paid.\nII. Policy owner can decide to add single or multiple top-ups.\nIII. Policy owner is subjected to a definite amount of premium payment that is non-negotiable.\nIV. Company will not charge any fees for premium holidays taken.",
-    "options": {
-      "A": "I and IV",
-      "B": "I and III",
-      "C": "I",
-      "D": "I and II"
+    {
+        "questionNumber": 29,
+        "question": "The flexibility offered by the investment-linked policy includes the following:\nI. Policy owner can ascertain the level of premium that needs to be paid.\nII. Policy owner can decide to add single or multiple top-ups.\nIII. Policy owner is subjected to a definite amount of premium payment that is non-negotiable.\nIV. Company will not charge any fees for premium holidays taken.",
+        "options": {
+            "A": "I and IV",
+            "B": "I and III",
+            "C": "I",
+            "D": "I and II"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 30,
-    "question": "The disadvantages found in an investment-linked policy are:\nI. It is subjected to the smoothening process of the company\nII. It is subjected to no charges if the company does not make any investment returns\nIII. It is subjected to fixed charges specified in the policy document\nIV. It is subjected to the vagaries of the stock market",
-    "options": {
-      "A": "I and III",
-      "B": "I and II",
-      "C": "II and IV",
-      "D": "III and IV"
+    {
+        "questionNumber": 30,
+        "question": "The disadvantages found in an investment-linked policy are:\nI. It is subjected to the smoothening process of the company\nII. It is subjected to no charges if the company does not make any investment returns\nIII. It is subjected to fixed charges specified in the policy document\nIV. It is subjected to the vagaries of the stock market",
+        "options": {
+            "A": "I and III",
+            "B": "I and II",
+            "C": "II and IV",
+            "D": "III and IV"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 31,
-    "question": "Cash values that use investment vehicles are not immune to risk. This means that the value of the cash value account can increase and decrease depending on the performance of the market. Individuals who use earnings from the cash value account may need to pay more out-of-pocket from premium payments when investments are performing poorly. Individuals are also not permitted to withdraw funds from the cash value while the policy is in force. What can be learned from the passage above?",
-    "options": {
-      "A": "Clients investing in an investment-linked product are at a disadvantage and should choose to put their money in traditional whole life with profit plans",
-      "B": "Clients must accept the fact that by buying an investment-linked policy they are also responsible to accept the changes that can take place in the stock market",
-      "C": "Clients must put the total burden and blame on the fund managers who are responsible in making only positive returns",
-      "D": "Clients can treat the investment-link policy as their personal bank account and do as they wish"
+    {
+        "questionNumber": 31,
+        "question": "Cash values that use investment vehicles are not immune to risk. This means that the value of the cash value account can increase and decrease depending on the performance of the market. Individuals who use earnings from the cash value account may need to pay more out-of-pocket from premium payments when investments are performing poorly. Individuals are also not permitted to withdraw funds from the cash value while the policy is in force. What can be learned from the passage above?",
+        "options": {
+            "A": "Clients investing in an investment-linked product are at a disadvantage and should choose to put their money in traditional whole life with profit plans",
+            "B": "Clients must accept the fact that by buying an investment-linked policy they are also responsible to accept the changes that can take place in the stock market",
+            "C": "Clients must put the total burden and blame on the fund managers who are responsible in making only positive returns",
+            "D": "Clients can treat the investment-link policy as their personal bank account and do as they wish"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 32,
-    "question": "The apparent advantages of an investment-linked Insurance policy are:\nI. The flexibility it offers in terms of choosing the premium payment amount, the sum assured and top-ups\nII. The ability to design the policy to meet one’s life goals as you go along the policy term\nIII. The guaranteed cash value accumulation that happens\nIV. The definite understanding that all investment-linked policies are guaranteed by the company and Bank Negara",
-    "options": {
-      "A": "I,II and III",
-      "B": "I and II",
-      "C": "II and IV",
-      "D": "I and IV"
+    {
+        "questionNumber": 32,
+        "question": "The apparent advantages of an investment-linked Insurance policy are:\nI. The flexibility it offers in terms of choosing the premium payment amount, the sum assured and top-ups\nII. The ability to design the policy to meet one’s life goals as you go along the policy term\nIII. The guaranteed cash value accumulation that happens\nIV. The definite understanding that all investment-linked policies are guaranteed by the company and Bank Negara",
+        "options": {
+            "A": "I,II and III",
+            "B": "I and II",
+            "C": "II and IV",
+            "D": "I and IV"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 33,
-    "question": "Marcus argues that a person should buy a short-term life insurance policy and invest the rest on other investment vehicles. Do you agree with him?",
-    "options": {
-      "A": "Yes. It is wise for a person to do so as they are quite proficient in the workings of the investment markets.",
-      "B": "No. It would be disastrous as the person will not be able to handle the portfolio as it is a very difficult thing to do alone.",
-      "C": "No. The short-term life insurance policy will not be able to cover his liabilities over a long period of time as we do not know what will happen to us then.",
-      "D": "Yes. This is an intelligent way of doing personal financial planning and it is being practiced by all successful people."
+    {
+        "questionNumber": 33,
+        "question": "Marcus argues that a person should buy a short-term life insurance policy and invest the rest on other investment vehicles. Do you agree with him?",
+        "options": {
+            "A": "Yes. It is wise for a person to do so as they are quite proficient in the workings of the investment markets.",
+            "B": "No. It would be disastrous as the person will not be able to handle the portfolio as it is a very difficult thing to do alone.",
+            "C": "No. The short-term life insurance policy will not be able to cover his liabilities over a long period of time as we do not know what will happen to us then.",
+            "D": "Yes. This is an intelligent way of doing personal financial planning and it is being practiced by all successful people."
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 34,
-    "question": "You have just finished an interview with a client. He is a young married man with a 2 years’ old child. He wants to purchase insurance for his child. What would be a good combination that you would suggest?\nI. A Term Life policy for protection on Death and TPD\nII. A Comprehensive Medical Card\nIII. A Dread Disease Policy\nIV. An 18 years endowment plan\nV. An investment-linked policy.",
-    "options": {
-      "A": "I,II,III and IV",
-      "B": "I,II,IV and V",
-      "C": "II,III,IV and V",
-      "D": "I,II,III,IV and V"
+    {
+        "questionNumber": 34,
+        "question": "You have just finished an interview with a client. He is a young married man with a 2 years’ old child. He wants to purchase insurance for his child. What would be a good combination that you would suggest?\nI. A Term Life policy for protection on Death and TPD\nII. A Comprehensive Medical Card\nIII. A Dread Disease Policy\nIV. An 18 years endowment plan\nV. An investment-linked policy.",
+        "options": {
+            "A": "I,II,III and IV",
+            "B": "I,II,IV and V",
+            "C": "II,III,IV and V",
+            "D": "I,II,III,IV and V"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 35,
-    "question": "What are the criteria used to compare traditional life insurance and investment-linked policies?\nI. Investment returns and Risks\nII. Premium Computation\nIII. Death Benefit\nIV. Surrender Value",
-    "options": {
-      "A": "I,II and III",
-      "B": "II,III and IV",
-      "C": "I,II and IV",
-      "D": "I,II,III and IV"
+    {
+        "questionNumber": 35,
+        "question": "What are the criteria used to compare traditional life insurance and investment-linked policies?\nI. Investment returns and Risks\nII. Premium Computation\nIII. Death Benefit\nIV. Surrender Value",
+        "options": {
+            "A": "I,II and III",
+            "B": "II,III and IV",
+            "C": "I,II and IV",
+            "D": "I,II,III and IV"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 36,
-    "question": "Salim and Siti are two self-employed people. They do not contribute to EPF and have two young children. They would like to maximize their tax relief from insurance. What is the maximum relief that they can claim?",
-    "options": {
-      "A": "RM 9,000 including Life, Medical/Education Premiums",
-      "B": "RM 18,000 including Life, Medical/Education Premiums",
-      "C": "RM 14,000 including Life, Medical/Education Premiums",
-      "D": "RM 16,000 including Life, Medical/Education Premiums"
+    {
+        "questionNumber": 36,
+        "question": "Salim and Siti are two self-employed people. They do not contribute to EPF and have two young children. They would like to maximize their tax relief from insurance. What is the maximum relief that they can claim?",
+        "options": {
+            "A": "RM 9,000 including Life, Medical/Education Premiums",
+            "B": "RM 18,000 including Life, Medical/Education Premiums",
+            "C": "RM 14,000 including Life, Medical/Education Premiums",
+            "D": "RM 16,000 including Life, Medical/Education Premiums"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 37,
-    "question": "The report to policy owners on the performance of the investment-linked fund must include the following information:\nI. A summary of the audited financial statement of the fund\nII. Trend analysis of not less than five (5) years, where available, on the net investment return of the fund\nIII. Composition and list of investments held by the fund as of reporting date\nIV. Any charges levied against the fund during the year",
-    "options": {
-      "A": "I,II and III",
-      "B": "I,III and IV",
-      "C": "II,III and IV",
-      "D": "I,II,III and IV"
+    {
+        "questionNumber": 37,
+        "question": "The report to policy owners on the performance of the investment-linked fund must include the following information:\nI. A summary of the audited financial statement of the fund\nII. Trend analysis of not less than five (5) years, where available, on the net investment return of the fund\nIII. Composition and list of investments held by the fund as of reporting date\nIV. Any charges levied against the fund during the year",
+        "options": {
+            "A": "I,II and III",
+            "B": "I,III and IV",
+            "C": "II,III and IV",
+            "D": "I,II,III and IV"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 38,
-    "question": "All sales materials and policy forms for investment-linked life insurance policies must contain the following information:",
-    "options": {
-      "A": "Policy benefits will be based on the performance of the funds and the factors affecting the policy benefits. Wherever possible, provide hypothetical illustrations to guide policy owners on the policy benefits",
-      "B": "The number and value of units held at the end of the previous statement period",
-      "C": "Charges e.g. initial charge, management fee, mortality and riders costs, etc. incurred during the statement period",
-      "D": "Any other information that BNM may from time to time deem necessary"
+    {
+        "questionNumber": 38,
+        "question": "All sales materials and policy forms for investment-linked life insurance policies must contain the following information:",
+        "options": {
+            "A": "Policy benefits will be based on the performance of the funds and the factors affecting the policy benefits. Wherever possible, provide hypothetical illustrations to guide policy owners on the policy benefits",
+            "B": "The number and value of units held at the end of the previous statement period",
+            "C": "Charges e.g. initial charge, management fee, mortality and riders costs, etc. incurred during the statement period",
+            "D": "Any other information that BNM may from time to time deem necessary"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 39,
-    "question": "What is the use of the Customer Fact Find (CFF) Form?",
-    "options": {
-      "A": "To submit a comprehensive picture to the company",
-      "B": "To allow the agent to build up a clear understanding of the customer’s circumstances",
-      "C": "To make sure that the clients’ information is used to design future and more effective policies",
-      "D": "To only comply to Bank Negara Malaysia’s new requirements"
+    {
+        "questionNumber": 39,
+        "question": "What is the use of the Customer Fact Find (CFF) Form?",
+        "options": {
+            "A": "To submit a comprehensive picture to the company",
+            "B": "To allow the agent to build up a clear understanding of the customer’s circumstances",
+            "C": "To make sure that the clients’ information is used to design future and more effective policies",
+            "D": "To only comply to Bank Negara Malaysia’s new requirements"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 40,
-    "question": "The CFF form will address the following areas:\nI. Customer’s Personal and Dependents Details\nII. Life and Financial Priorities and Goals\nIII. Risk Return Ratio\nIV. Financial Needs Analysis",
-    "options": {
-      "A": "I,II and III",
-      "B": "I,II and IV",
-      "C": "I,III and IV",
-      "D": "II,III and IV"
+    {
+        "questionNumber": 40,
+        "question": "The CFF form will address the following areas:\nI. Customer’s Personal and Dependents Details\nII. Life and Financial Priorities and Goals\nIII. Risk Return Ratio\nIV. Financial Needs Analysis",
+        "options": {
+            "A": "I,II and III",
+            "B": "I,II and IV",
+            "C": "I,III and IV",
+            "D": "II,III and IV"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 41,
-    "question": "Indran is a very satisfied with his agent as he has done a lot for him. He will probably do the following EXCEPT:",
-    "options": {
-      "A": "Recommend that his agent be given a letter of commendation and an award from the company",
-      "B": "Speak highly about the level of commitment and service given to him by his agent",
-      "C": "Keep his agent as a very well-guarded secret",
-      "D": "Help him in prospecting and referring his friends to the agent"
+    {
+        "questionNumber": 41,
+        "question": "Indran is a very satisfied with his agent as he has done a lot for him. He will probably do the following EXCEPT:",
+        "options": {
+            "A": "Recommend that his agent be given a letter of commendation and an award from the company",
+            "B": "Speak highly about the level of commitment and service given to him by his agent",
+            "C": "Keep his agent as a very well-guarded secret",
+            "D": "Help him in prospecting and referring his friends to the agent"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 42,
-    "question": "An agent can potentially get prospects effectively by utilizing the following methods:\nI. Approaching his natural market\nII. Taking out advertisement in newspapers and magazines to promote himself\nIII. Asking for qualified referrals from his satisfied clients\nIV. Obtain a list of existing clients from a rival company to replace their plans with his company’s ones",
-    "options": {
-      "A": "I,II and III",
-      "B": "II,III and IV",
-      "C": "I and III",
-      "D": "II and IV"
+    {
+        "questionNumber": 42,
+        "question": "An agent can potentially get prospects effectively by utilizing the following methods:\nI. Approaching his natural market\nII. Taking out advertisement in newspapers and magazines to promote himself\nIII. Asking for qualified referrals from his satisfied clients\nIV. Obtain a list of existing clients from a rival company to replace their plans with his company’s ones",
+        "options": {
+            "A": "I,II and III",
+            "B": "II,III and IV",
+            "C": "I and III",
+            "D": "II and IV"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 43,
-    "question": "A truly professional person makes the following commitments:\nI. Proudly announce about the quality of his clients and drop names to impress others\nII. Shares intimate knowledge of his clients to fellow agents\nIII. Maintain a very high ethical standard when it comes to any information pertaining his clients\nIV. Conduct himself in a professional and honorable way whilst carrying out his work",
-    "options": {
-      "A": "I and II",
-      "B": "II and III",
-      "C": "I and III",
-      "D": "III and IV"
+    {
+        "questionNumber": 43,
+        "question": "A truly professional person makes the following commitments:\nI. Proudly announce about the quality of his clients and drop names to impress others\nII. Shares intimate knowledge of his clients to fellow agents\nIII. Maintain a very high ethical standard when it comes to any information pertaining his clients\nIV. Conduct himself in a professional and honorable way whilst carrying out his work",
+        "options": {
+            "A": "I and II",
+            "B": "II and III",
+            "C": "I and III",
+            "D": "III and IV"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 44,
-    "question": "The Code of Ethics and Conduct for agents dwells on:\nI. To avoid conflict of interest\nII. Avoid misuse of position\nIII. To prevent misuse of information\nIV. To ensure completeness and accuracy of relevant records\nV. To ensure confidentiality of communication and transactions between the life insurance company and its policy owners and clients\nVI. To ensure fair and equitable treatment of all policy owners and others who rely on or who are associated with the life insurance company\nVII. To conduct business with utmost good faith and integrity",
-    "options": {
-      "A": "The seven principle underlying the guidelines",
-      "B": "Bank Negara’s guidelines on good agent governance",
-      "C": "The international standards set for agents",
-      "D": "The leading criteria for the awarding of LIAM’s national award"
+    {
+        "questionNumber": 44,
+        "question": "The Code of Ethics and Conduct for agents dwells on:\nI. To avoid conflict of interest\nII. Avoid misuse of position\nIII. To prevent misuse of information\nIV. To ensure completeness and accuracy of relevant records\nV. To ensure confidentiality of communication and transactions between the life insurance company and its policy owners and clients\nVI. To ensure fair and equitable treatment of all policy owners and others who rely on or who are associated with the life insurance company\nVII. To conduct business with utmost good faith and integrity",
+        "options": {
+            "A": "The seven principle underlying the guidelines",
+            "B": "Bank Negara’s guidelines on good agent governance",
+            "C": "The international standards set for agents",
+            "D": "The leading criteria for the awarding of LIAM’s national award"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 45,
-    "question": "Sebastian is very unhappy with the insurance policy that he has bought. To whom can he complain?\nI. Bank Negara’s Insurance Mediation Bureau\nII. LIAM\nIII. The particular insurance company\nIV. The Newspaper",
-    "options": {
-      "A": "I,III and IV",
-      "B": "I,II and III",
-      "C": "II,III and IV",
-      "D": "I,II and IV"
+    {
+        "questionNumber": 45,
+        "question": "Sebastian is very unhappy with the insurance policy that he has bought. To whom can he complain?\nI. Bank Negara’s Insurance Mediation Bureau\nII. LIAM\nIII. The particular insurance company\nIV. The Newspaper",
+        "options": {
+            "A": "I,III and IV",
+            "B": "I,II and III",
+            "C": "II,III and IV",
+            "D": "I,II and IV"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 46,
-    "question": "What is the main reason for the steady growth of the Insurance Industry in Malaysia?",
-    "options": {
-      "A": "The liberalization of regulations by the Ministry of Finance and Bank Negara Malaysia",
-      "B": "The introduction of Investment-Linked policies",
-      "C": "The efforts by insurance companies to design and offer customer-centric and good plans",
-      "D": "The robust growth of the country’s economy"
+    {
+        "questionNumber": 46,
+        "question": "What is the main reason for the steady growth of the Insurance Industry in Malaysia?",
+        "options": {
+            "A": "The liberalization of regulations by the Ministry of Finance and Bank Negara Malaysia",
+            "B": "The introduction of Investment-Linked policies",
+            "C": "The efforts by insurance companies to design and offer customer-centric and good plans",
+            "D": "The robust growth of the country’s economy"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 47,
-    "question": "Why do you think people are not investing nowadays?\nI. The adverse economic conditions, in the last 15 years, have made them be wary of investments\nII. The fall of many established financial institutions in the last few years\nIII. The stock market cannot be approached by ordinary people\nIV. Many investors have seen their fortunes dwindling, due to the financial crisis",
-    "options": {
-      "A": "I,II and III",
-      "B": "I,II and IV",
-      "C": "II,III and IV",
-      "D": "I,II,III and IV"
+    {
+        "questionNumber": 47,
+        "question": "Why do you think people are not investing nowadays?\nI. The adverse economic conditions, in the last 15 years, have made them be wary of investments\nII. The fall of many established financial institutions in the last few years\nIII. The stock market cannot be approached by ordinary people\nIV. Many investors have seen their fortunes dwindling, due to the financial crisis",
+        "options": {
+            "A": "I,II and III",
+            "B": "I,II and IV",
+            "C": "II,III and IV",
+            "D": "I,II,III and IV"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 48,
-    "question": "All the following statements are TRUE EXCEPT:",
-    "options": {
-      "A": "Cash can be regarded as an investment",
-      "B": "The capital value of cash will not increase and will not generate any additional income by itself",
-      "C": "Cash deposits are liquid instruments that carry little or no risk when the principal amounts invested can be lost",
-      "D": "Cash instruments can include Treasury Bills and Bank Accounts"
+    {
+        "questionNumber": 48,
+        "question": "All the following statements are TRUE EXCEPT:",
+        "options": {
+            "A": "Cash can be regarded as an investment",
+            "B": "The capital value of cash will not increase and will not generate any additional income by itself",
+            "C": "Cash deposits are liquid instruments that carry little or no risk when the principal amounts invested can be lost",
+            "D": "Cash instruments can include Treasury Bills and Bank Accounts"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 49,
-    "question": "Rank the following funds in an ascending order in terms of risk?\nI. Equity funds\nII. Derivatives and Futures fund\nIII. Government Bond fund\nIV. Cash fund\nV. Balanced fund",
-    "options": {
-      "A": "IV,III,I,V and II",
-      "B": "V,I,II,III and IV",
-      "C": "IV,V,I,II and III",
-      "D": "IV,III,V, I and II"
+    {
+        "questionNumber": 49,
+        "question": "Rank the following funds in an ascending order in terms of risk?\nI. Equity funds\nII. Derivatives and Futures fund\nIII. Government Bond fund\nIV. Cash fund\nV. Balanced fund",
+        "options": {
+            "A": "IV,III,I,V and II",
+            "B": "V,I,II,III and IV",
+            "C": "IV,V,I,II and III",
+            "D": "IV,III,V, I and II"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 50,
-    "question": "The following benefits of investing in an investment-linked policy is FALSE EXCEPT:",
-    "options": {
-      "A": "Client is expected to monitor and switch the funds on his own all the time the policy is in force",
-      "B": "The burden of fund management is borne by the company’s professional management team and does not burden the client",
-      "C": "Client has the option to instruct the fund managers to follow his investment outlook and strategies",
-      "D": "Client has the option to make decisions on how the company must invest his money totally"
+    {
+        "questionNumber": 50,
+        "question": "The following benefits of investing in an investment-linked policy is FALSE EXCEPT:",
+        "options": {
+            "A": "Client is expected to monitor and switch the funds on his own all the time the policy is in force",
+            "B": "The burden of fund management is borne by the company’s professional management team and does not burden the client",
+            "C": "Client has the option to instruct the fund managers to follow his investment outlook and strategies",
+            "D": "Client has the option to make decisions on how the company must invest his money totally"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 51,
-    "question": "The Government has allowed insurance premiums paid as tax relief because:",
-    "options": {
-      "A": "The Government feels that by giving this relief, all Malaysians will be able to purchase insurance easily",
-      "B": "The Government is giving this relief to encourage national thrift and promote individual financial independence",
-      "C": "The Government feels that the tax that they will collect if the relief is not given is considerably low and insignificant",
-      "D": "The Government is allowing this relief to make sure it is popular"
+    {
+        "questionNumber": 51,
+        "question": "The Government has allowed insurance premiums paid as tax relief because:",
+        "options": {
+            "A": "The Government feels that by giving this relief, all Malaysians will be able to purchase insurance easily",
+            "B": "The Government is giving this relief to encourage national thrift and promote individual financial independence",
+            "C": "The Government feels that the tax that they will collect if the relief is not given is considerably low and insignificant",
+            "D": "The Government is allowing this relief to make sure it is popular"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 52,
-    "question": "Why is it important to identify and establish customer’s needs?",
-    "options": {
-      "A": "To project an air of professionalism to the client",
-      "B": "To ensure that the client is comfortable and knows the important areas concerning the policy that he is going to buy",
-      "C": "To ensure that the agent will get good referrals",
-      "D": "To ensure that the agent gets to sell the policy as fast as possible"
+    {
+        "questionNumber": 52,
+        "question": "Why is it important to identify and establish customer’s needs?",
+        "options": {
+            "A": "To project an air of professionalism to the client",
+            "B": "To ensure that the client is comfortable and knows the important areas concerning the policy that he is going to buy",
+            "C": "To ensure that the agent will get good referrals",
+            "D": "To ensure that the agent gets to sell the policy as fast as possible"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 53,
-    "question": "Which of the following investments carries the highest risk and uncertainty?",
-    "options": {
-      "A": "Investment that offers the lowest opportunities for capital growth",
-      "B": "Investment that offers the lowest opportunities for income growth",
-      "C": "Investment that offers the greatest opportunities for capital growth",
-      "D": "Investment that offers the acceptable opportunities for income growth"
+    {
+        "questionNumber": 53,
+        "question": "Which of the following investments carries the highest risk and uncertainty?",
+        "options": {
+            "A": "Investment that offers the lowest opportunities for capital growth",
+            "B": "Investment that offers the lowest opportunities for income growth",
+            "C": "Investment that offers the greatest opportunities for capital growth",
+            "D": "Investment that offers the acceptable opportunities for income growth"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 54,
-    "question": "What is diversification?",
-    "options": {
-      "A": "The process of investing in the same asset classes and across different market environments",
-      "B": "The process of investing across different asset classes and across different market environments",
-      "C": "The process of investing in the same asset classes and not across different market environments",
-      "D": "The process of investing across different asset classes and not across different market environment"
+    {
+        "questionNumber": 54,
+        "question": "What is diversification?",
+        "options": {
+            "A": "The process of investing in the same asset classes and across different market environments",
+            "B": "The process of investing across different asset classes and across different market environments",
+            "C": "The process of investing in the same asset classes and not across different market environments",
+            "D": "The process of investing across different asset classes and not across different market environment"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 55,
-    "question": "What is debenture stock?",
-    "options": {
-      "A": "Secured loan to a company in which the security is either a fixed charge on company's property or some of its assets",
-      "B": "Unsecured loan to a company in which the security is either a fixed charge on company's property or some of its assets",
-      "C": "Secured loan to a company in which the security is either a fixed charge on company's well-being or capital",
-      "D": "Unsecured loan to a company in which the security is either a fixed charge on company's well-being or capital"
+    {
+        "questionNumber": 55,
+        "question": "What is debenture stock?",
+        "options": {
+            "A": "Secured loan to a company in which the security is either a fixed charge on company's property or some of its assets",
+            "B": "Unsecured loan to a company in which the security is either a fixed charge on company's property or some of its assets",
+            "C": "Secured loan to a company in which the security is either a fixed charge on company's well-being or capital",
+            "D": "Unsecured loan to a company in which the security is either a fixed charge on company's well-being or capital"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 56,
-    "question": "Treasury bills are ___________.\nI. Issued by the BNM (Central Bank)\nII. Is the safest type of instrument\nIII. These are short-term financial instruments\nIV. The repayment period is normally more than one year",
-    "options": {
-      "A": "I, II and III",
-      "B": "I, II and IV",
-      "C": "II, III and IV",
-      "D": "All of the above"
+    {
+        "questionNumber": 56,
+        "question": "Treasury bills are ___________.\nI. Issued by the BNM (Central Bank)\nII. Is the safest type of instrument\nIII. These are short-term financial instruments\nIV. The repayment period is normally more than one year",
+        "options": {
+            "A": "I, II and III",
+            "B": "I, II and IV",
+            "C": "II, III and IV",
+            "D": "All of the above"
+        },
+        "answer": "A"
     },
-    "answer": "A"
-  },
-  {
-    "questionNumber": 57,
-    "question": "In a regular premium investment-linked whole life insurance plan, __________.\nI. Premium top-ups and holidays, subject to the life office’s administrative rules, are usually allowed\nII. Life protection is the main objective of the plan with investment as a nominal purpose\nIII. A “one-off” premium contribution is made to the policy which uses the premium to purchase units in an investment-linked fund and to provide certain level life cover\nIV. Withdrawals and surrenders, usually after the payment of a few years premium, are allowed",
-    "options": {
-      "A": "I, II and III",
-      "B": "I, II and IV",
-      "C": "I, III and IV",
-      "D": "II, III and IV"
+    {
+        "questionNumber": 57,
+        "question": "In a regular premium investment-linked whole life insurance plan, __________.\nI. Premium top-ups and holidays, subject to the life office’s administrative rules, are usually allowed\nII. Life protection is the main objective of the plan with investment as a nominal purpose\nIII. A “one-off” premium contribution is made to the policy which uses the premium to purchase units in an investment-linked fund and to provide certain level life cover\nIV. Withdrawals and surrenders, usually after the payment of a few years premium, are allowed",
+        "options": {
+            "A": "I, II and III",
+            "B": "I, II and IV",
+            "C": "I, III and IV",
+            "D": "II, III and IV"
+        },
+        "answer": "B"
     },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 58,
-    "question": "The charges for the investment-linked life insurance are likely to be a combination of two or more of the following:\nI. Annual fund management fee\nII. Mortality charges\nIII. Surrender charges\nIV. Policy fee",
-    "options": {
-      "A": "I, II and III",
-      "B": "II, III and IV",
-      "C": "I, III and IV",
-      "D": "All of the above"
+    {
+        "questionNumber": 58,
+        "question": "The charges for the investment-linked life insurance are likely to be a combination of two or more of the following:\nI. Annual fund management fee\nII. Mortality charges\nIII. Surrender charges\nIV. Policy fee",
+        "options": {
+            "A": "I, II and III",
+            "B": "II, III and IV",
+            "C": "I, III and IV",
+            "D": "All of the above"
+        },
+        "answer": "D"
     },
-    "answer": "D"
-  },
-  {
-    "questionNumber": 59,
-    "question": "These funds are normally segmented based on geographical regions or particular industries. These are:",
-    "options": {
-      "A": "Managed funds",
-      "B": "Balanced funds",
-      "C": "Specialized funds",
-      "D": "Speculated funds"
+    {
+        "questionNumber": 59,
+        "question": "These funds are normally segmented based on geographical regions or particular industries. These are:",
+        "options": {
+            "A": "Managed funds",
+            "B": "Balanced funds",
+            "C": "Specialized funds",
+            "D": "Speculated funds"
+        },
+        "answer": "C"
     },
-    "answer": "C"
-  },
-  {
-    "questionNumber": 60,
-    "question": "The consumer buying decision process includes the following stages in order?\nI. Sales interview\nII. Information search\nIII. Post-purchase evaluation\nIV. Problem recognition",
-    "options": {
-      "A": "I, II and III",
-      "B": "I, II, IV",
-      "C": "II, III and IV",
-      "D": "I, II, III and IV"
-    },
-    "answer": "D"
-  }
+    {
+        "questionNumber": 60,
+        "question": "The consumer buying decision process includes the following stages in order?\nI. Sales interview\nII. Information search\nIII. Post-purchase evaluation\nIV. Problem recognition",
+        "options": {
+            "A": "I, II and III",
+            "B": "I, II, IV",
+            "C": "II, III and IV",
+            "D": "I, II, III and IV"
+        },
+        "answer": "D"
+    }
 ]
