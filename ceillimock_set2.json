@@ -1,113 +1,113 @@
 [
   {
     "questionNumber": 1,
-    "question": "Which type of investment offer bigger capital and income growth?",
+    "question": "What is an investment-linked policy?",
     "options": {
-      "A": "investment with little risk",
-      "B": "investment with high risk",
-      "C": "investment with moderate risk",
-      "D": "investment with no risk"
+      "A": "A participating whole life policy",
+      "B": "A capital and returns guaranteed policy",
+      "C": "An endowment policy only",
+      "D": "A plan that offers clients’ coverage and investment returns"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 2,
+    "question": "All the following statements are TRUE EXCEPT:",
+    "options": {
+      "A": "The investment-linked policy is directly linked to investment performance",
+      "B": "Once the policy is in-force, the clients’ investments will grow steadily",
+      "C": "Fund managers will make sure that the investment-linked policy is shielded from market fluctuations",
+      "D": "The investment-linked policy only provides coverage and nothing else"
     },
     "answer": "B"
   },
   {
-    "questionNumber": 2,
-    "question": "Share price are generally higher in the following situations:\nI. when there are more buyers than shares available for sale\nII. when the company is making a good profit\nIII. when the country economy is unstable\nIV. when the interest rates are higher",
-    "options": {
-      "A": "I and III",
-      "B": "II and IV",
-      "C": "I and II",
-      "D": "III and IV"
-    },
-    "answer": "C"
-  },
-  {
     "questionNumber": 3,
-    "question": "The factors that do NOT influence the choice of deposits in a bank include:\nI. prevailing market condition\nII. the gender of the depositor\nIII. the funds available for investment\nIV. the academic qualification of the depositor",
+    "question": "Investment-linked Insurance policy is named as the following around the world EXCEPT:",
     "options": {
-      "A": "I and II",
-      "B": "I and III",
-      "C": "II and III",
-      "D": "II and IV"
+      "A": "Mutual fund-linked policy",
+      "B": "Unit-linked policy",
+      "C": "Variable life policy",
+      "D": "Takaful investment-linked life"
     },
     "answer": "D"
   },
   {
     "questionNumber": 4,
-    "question": "What does the term “Prospect” refer to?",
+    "question": "“... is designed to shift the uncertainties of investment gains or losses to the policy holders...” The excerpt describes what of the following accurately?",
     "options": {
-      "A": "percentage of closing deal",
-      "B": "potential customer",
-      "C": "potential product",
-      "D": "the future of the agent"
-    },
-    "answer": "B"
-  },
-  {
-    "questionNumber": 5,
-    "question": "The following are secondary objectives of investment EXCEPT:",
-    "options": {
-      "A": "safety",
-      "B": "hedging inflation",
-      "C": "retirement income",
-      "D": "achieving financial freedom"
+      "A": "Policyholders who choose to take investment-linked policies must realize that they are also responsible to monitor the performance of their policy to ensure a reasonable return",
+      "B": "The chances that the policy values going to zero is impossible because the Fund Managers, companies and agents will ensure that the policy is profitable at all times",
+      "C": "Insurance companies, fund managers will wash their hands off the policy once the policy is taken and leave it solely to the agents and policy holders to monitor it",
+      "D": "Agents are responsible to the clients’ only and must ensure that they monitor the policy at all times"
     },
     "answer": "A"
   },
   {
-    "questionNumber": 6,
-    "question": "Which of the following is considered INCONSISTENT with after-sales service?",
+    "questionNumber": 5,
+    "question": "An investment-linked plan has the following features:\nI. Provide cover for death and total permanent disability.\nII. Participate in investments managed by the insurer.\nIII. Can provide a good return if monitored well.\nIV. Largely depends on the clients’ ability to be good at investing in equities market.",
     "options": {
-      "A": "Providing a basis for future sales on current needs",
-      "B": "Explaining the policy’s provisions, terms and conditions",
-      "C": "Establishing the customer/agent relationship",
-      "D": "Strengthening the customer/agent relationship"
+      "A": "I,II and IV",
+      "B": "I,III and IV",
+      "C": "II,III and IV",
+      "D": "I,II and III"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 6,
+    "question": "An agent owes the client a moral obligation to",
+    "options": {
+      "A": "Educate a client to be an expert investor",
+      "B": "To recommend specific funds to invest in",
+      "C": "Educate clients’ with some basic and sound investment principles",
+      "D": "Make decisions on behalf of the client"
     },
     "answer": "C"
   },
   {
     "questionNumber": 7,
-    "question": "With regard to the investment-linked life policy, the uncertainty of investment gains or losses is shifted to:",
+    "question": "What considerations must be taken before making an investment decision?\nI. Investment objectives, Availability of Funds, Diversification.\nII. Risk or Security, Promised Money, Tax issues.\nIII. Investment Horizon, Performance of Investment, Accessibility of Funds.\nIV. Economic Reports, Insurance Companies Asset base, Government Regulations.",
     "options": {
-      "A": "Insurers",
-      "B": "Insured",
-      "C": "Agents",
-      "D": "Brokers"
+      "A": "I and III",
+      "B": "I and II",
+      "C": "I and IV",
+      "D": "III and IV"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "questionNumber": 8,
-    "question": "Using the dual policy method, calculate the cash value of 5000 units purchased at an offer price of RM3 and sold at a bid price of RM1 with a mortality charge of 1% and RM100 policy fee.",
+    "question": "Clients want to invest:\nI. To lead a comfortable lifestyle\nII. To be comfortable during retirement\nIII. To amass great wealth\nIV. To provide adequate funding for their children’s needs",
     "options": {
-      "A": "RM 14,750",
-      "B": "RM 4,850",
-      "C": "RM 4,600",
-      "D": "RM 9,350"
+      "A": "I,III and IV",
+      "B": "I,II and III",
+      "C": "I,II and IV",
+      "D": "II,III and IV"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "questionNumber": 9,
-    "question": "What are the benefits of investing in investment-linked funds?\nI. Diversification\nII. Flexibility\nIII. Expertise\nIV. Easy access to well diversified investments",
+    "question": "What must an agent do to ensure the client is given proper advice on investment?",
     "options": {
-      "A": "I, II and III",
-      "B": "II, III and IV",
-      "C": "I, III and IV",
-      "D": "I, II, III and IV"
+      "A": "Ensure that there is a right combination of objectives and make sure proper risk analysis is done",
+      "B": "Show the wide selection of investment for the client to choose from",
+      "C": "Motivate the client to borrow money to invest in guaranteed investment vehicles",
+      "D": "Ensure that the advice is advantageous to the agent and the insurance company"
     },
-    "answer": "D"
+    "answer": "A"
   },
   {
     "questionNumber": 10,
-    "question": "Investment-linked life insurance policies must have a minimum death benefit of:",
+    "question": "Why is diversification in investment recommended?\nI. So as not to be exposed in one particular class of investments\nII. To even out market fluctuations and not suffer too much losses\nIII. To ensure the investments will always do well\nIV. To ensure that they can realize their financial objectives faster",
     "options": {
-      "A": "RM 3,000",
-      "B": "RM 4,000",
-      "C": "RM 5,000",
-      "D": "RM 6,000"
+      "A": "I and III",
+      "B": "I and II",
+      "C": "II and IV",
+      "D": "III and IV"
     },
-    "answer": "C"
+    "answer": "B"
   },
   {
     "questionNumber": 11,
