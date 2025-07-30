@@ -211,3 +211,9 @@ input[type="number"] {
 .close-btn:hover {
   color: #065c38;
 }
+
+.total-count {
+  font-size: 0.75em;
+  color: #777;
+  margin-left: 4px;
+}
