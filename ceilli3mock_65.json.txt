@@ -1,0 +1,717 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "Which type of investment offer bigger capital and income growth?",
+    "options": {
+      "A": "investment with little risk",
+      "B": "investment with high risk",
+      "C": "investment with moderate risk",
+      "D": "investment with no risk"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 2,
+    "question": "Share price are generally higher in the following situations:\nI. when there are more buyers than shares available for sale\nII. when the company is making a good profit\nIII. when the country economy is unstable\nIV. when the interest rates are higher",
+    "options": {
+      "A": "I and III",
+      "B": "II and IV",
+      "C": "I and II",
+      "D": "III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 3,
+    "question": "The factors that do NOT influence the choice of deposits in a bank include:\nI. prevailing market condition\nII. the gender of the depositor\nIII. the funds available for investment\nIV. the academic qualification of the depositor",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "II and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 4,
+    "question": "What does the term “Prospect” refer to?",
+    "options": {
+      "A": "percentage of closing deal",
+      "B": "potential customer",
+      "C": "potential product",
+      "D": "the future of the agent"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 5,
+    "question": "The following are secondary objectives of investment EXCEPT:",
+    "options": {
+      "A": "safety",
+      "B": "hedging inflation",
+      "C": "retirement income",
+      "D": "achieving financial freedom"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 6,
+    "question": "Which of the following is considered INCONSISTENT with after-sales service?",
+    "options": {
+      "A": "Providing a basis for future sales on current needs",
+      "B": "Explaining the policy’s provisions, terms and conditions",
+      "C": "Establishing the customer/agent relationship",
+      "D": "Strengthening the customer/agent relationship"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 7,
+    "question": "With regard to the investment-linked life policy, the uncertainty of investment gains or losses is shifted to:",
+    "options": {
+      "A": "Insurers",
+      "B": "Insured",
+      "C": "Agents",
+      "D": "Brokers"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 8,
+    "question": "Using the dual policy method, calculate the cash value of 5000 units purchased at an offer price of RM3 and sold at a bid price of RM1 with a mortality charge of 1% and RM100 policy fee.",
+    "options": {
+      "A": "RM 14,750",
+      "B": "RM 4,850",
+      "C": "RM 4,600",
+      "D": "RM 9,350"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 9,
+    "question": "What are the benefits of investing in investment-linked funds?\nI. Diversification\nII. Flexibility\nIII. Expertise\nIV. Easy access to well diversified investments",
+    "options": {
+      "A": "I, II and III",
+      "B": "II, III and IV",
+      "C": "I, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 10,
+    "question": "Investment-linked life insurance policies must have a minimum death benefit of:",
+    "options": {
+      "A": "RM 3,000",
+      "B": "RM 4,000",
+      "C": "RM 5,000",
+      "D": "RM 6,000"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 11,
+    "question": "What fund is used to determine investment return for a with-profit life insurance policy?",
+    "options": {
+      "A": "Investment fund",
+      "B": "Fixed asset fund",
+      "C": "Life fund of the insurer",
+      "D": "Excess of premium over classes fund"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 12,
+    "question": "Short-term government funding issued on a regular basis with payment normally within a year is known as?",
+    "options": {
+      "A": "Government bond",
+      "B": "Central bank bills",
+      "C": "Finance bills",
+      "D": "Treasury bills"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 13,
+    "question": "Which of the following is NOT a characteristic of SUKUK bonds?",
+    "options": {
+      "A": "They are issued by pooled funds",
+      "B": "They may be guaranteed or not by originator",
+      "C": "They are based on hard assets that generate steady income and expectation",
+      "D": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 14,
+    "question": "Some of the information contained in sales materials to ensure adequate disclosure and transparency of investment-linked life insurance policy is:\nI. A general description of the investment policy and objective of the fund\nII. The basis and frequency of valuation of assets underlying the fund\nIII. Guarantee\nIV. Clear information that the investment risks are to be borne by the policy owners",
+    "options": {
+      "A": "I, II and III",
+      "B": "II, III and IV",
+      "C": "I, II and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 15,
+    "question": "What are the overriding obligations of intermediaries?\nI. To sell only for one insurer\nII. To conduct business at all time with utmost good faith\nIII. To uphold integrity in conducting business\nIV. To satisfy all customer demands",
+    "options": {
+      "A": "I and IV",
+      "B": "I, II and III",
+      "C": "II and III",
+      "D": "III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 16,
+    "question": "Using the single pricing method, calculate the cash value of 4000 units at unit price of RM1, a mortality charge of 2% and a RM100 policy fee.",
+    "options": {
+      "A": "RM 3500",
+      "B": "RM 3800",
+      "C": "RM 3820",
+      "D": "RM 3620"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 17,
+    "question": "Which of the following statements is true regarding convertible stocks?",
+    "options": {
+      "A": "Convertible stocks can be converted to fixed income security",
+      "B": "The decision to convert depends on the permission of the securities commission",
+      "C": "The investor is entitled to a share of the company’s profit through dividends declared",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 18,
+    "question": "All life insurers have made it mandatory for agents to submit duly completed ______ together with new business proposal form.",
+    "options": {
+      "A": "Option form",
+      "B": "Medical reports",
+      "C": "Customer fact find form",
+      "D": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 19,
+    "question": "Funds that are restricted to investment in particular geographical regions or industries are known as ______ funds.",
+    "options": {
+      "A": "Bond",
+      "B": "Managed",
+      "C": "Specialized",
+      "D": "Balanced"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 20,
+    "question": "The premium relief is allowable when the _____ is on the life of the spouse of the individual.\nI. Life insurance\nII. Deferred annuity\nIII. General insurance",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "II and III"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 21,
+    "question": "What need to be understood before giving clients advice on investment?",
+    "options": {
+      "A": "The amount of profit that can be made",
+      "B": "The importance of managing investment",
+      "C": "The key consideration in investment",
+      "D": "The key consideration in management"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 22,
+    "question": "Some of the criteria used to compare conventional insurance products with investment-linked insurance products are:\nI. Surrender benefit\nII. Investment return\nIII. Investment risk\nIV. Management expenses",
+    "options": {
+      "A": "I, II and IV",
+      "B": "II, III and IV",
+      "C": "I and II",
+      "D": "I, II, III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 23,
+    "question": "Which type of investment fund fluctuates drastically in times of a volatile stock market?",
+    "options": {
+      "A": "Property fund",
+      "B": "Equity fund",
+      "C": "Fixed deposit fund",
+      "D": "Specialized fund"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 24,
+    "question": "What type of fee is charged under the investment-linked life policy to cover the administrative expenses of setting up the policy?",
+    "options": {
+      "A": "Policy fee",
+      "B": "Mortality charges",
+      "C": "Surrender charges",
+      "D": "Annual management charges"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 25,
+    "question": "What is the purpose of a proposal form?",
+    "options": {
+      "A": "To disclose all material fact which will influence the acceptance of the proposal by insurer",
+      "B": "To simplify the work of an agent",
+      "C": "To serve as ground for claim rejection",
+      "D": "To include a statement on claim procedures"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 26,
+    "question": "The administrative fee, insurance charge and fund management fee under an investment-linked life insurance policy are:",
+    "options": {
+      "A": "Guaranteed",
+      "B": "Not subject to review",
+      "C": "Subject to change by insurance companies",
+      "D": "Always “up front” charges"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 27,
+    "question": "Misrepresentation resulting in inducing a policy owner to cancel or have his own policy made paid-up in order to purchase a new policy to earn more income for the agent is known as:",
+    "options": {
+      "A": "Switching",
+      "B": "Changing",
+      "C": "Replacing",
+      "D": "Twisting"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 28,
+    "question": "The value of an investment-linked life policy is determined by:\nI. Unit price of fund\nII. Market value of fund\nIII. Number of units accumulated",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 29,
+    "question": "In claim settlement, a life insurer may reject or delay a claim on:",
+    "options": {
+      "A": "The grounds of non-disclosure or misrepresentation",
+      "B": "Late submission of accompanying documents",
+      "C": "Non-payment of claim processing fees",
+      "D": "A claim reported after the time limit for notification"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 30,
+    "question": "The trust deed in a unit trust sets out the following EXCEPT:",
+    "options": {
+      "A": "The accounting and auditing rules",
+      "B": "The fund managers investment powers",
+      "C": "The structure of the unit holders",
+      "D": "The remuneration of the fund managers"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 31,
+    "question": "Which of the following statements are true?\nI. Equity assets are inherently lower risk in nature\nII. Bond funds are also known as “income” or “fixed income” funds\nIII. Specialized funds are normally segmented based on geographical regions or particular industries\nIV. Property funds are generally considered to be safer than equity funds, but have lower liquidity",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, III and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 32,
+    "question": "According to the textbook, there is a _______ between expected return and risk that should prevail in a rational environment.",
+    "options": {
+      "A": "trade off",
+      "B": "correlation",
+      "C": "relationship",
+      "D": "reverse proportion"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 33,
+    "question": "________ is a form of misrepresentation in which a policy owner is induced to discontinue an existing insurance policy, and purchase a new policy.",
+    "options": {
+      "A": "Twisting",
+      "B": "Switching",
+      "C": "Withdrawal",
+      "D": "Money laundering"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 34,
+    "question": "Which type of investment-linked fund has lowest risk?",
+    "options": {
+      "A": "A less diversified fund",
+      "B": "A company with a big fund from many policy owners",
+      "C": "A well-diversified fund",
+      "D": "A well-known insurance company specializing in certain funds"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 35,
+    "question": "Under the calculation of the death benefit on unit value or death cover basis, what are the criteria for payment upon death?",
+    "options": {
+      "A": "The unit value",
+      "B": "The unit value plus sum assured",
+      "C": "The sum assured",
+      "D": "Unit value or death cover, whichever higher"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 36,
+    "question": "What is an important ingredient for a successful sales interview?",
+    "options": {
+      "A": "The agent’s skill in handling objection from a prospect",
+      "B": "A reduction in the product pricing",
+      "C": "A change in the sales plan",
+      "D": "The agent making objection and drawing the prospect’s attention to the advantages of the product"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 37,
+    "question": "In investment-linked insurance, when is the investment premium placed in unitized fund?",
+    "options": {
+      "A": "When stocks market goes up",
+      "B": "Once the premium has been paid",
+      "C": "When property price falls",
+      "D": "When the policy holder agrees to pay the full premium"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 38,
+    "question": "During a market crash, _______ usually are the first to depreciate in high amounts.",
+    "options": {
+      "A": "Property funds",
+      "B": "Balanced funds",
+      "C": "Corporate funds",
+      "D": "Equity asset/funds"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 39,
+    "question": "What are the two factors which determine the value of an investment-linked insurance policy?\nI. The sum assured\nII. The investment return\nIII. The value of each unit\nIV. The number of units the policy has accumulated up to date",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "II and IV",
+      "D": "III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 40,
+    "question": "Which of the following charges will NOT be levied on investment-linked life insurance policies?",
+    "options": {
+      "A": "Premium holiday fee",
+      "B": "Mortality charges",
+      "C": "Surrender charges",
+      "D": "Annual fund management fee"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 41,
+    "question": "An investment-linked life insurance policy has a free look provision of at least ____ days.",
+    "options": {
+      "A": "14",
+      "B": "15",
+      "C": "21",
+      "D": "30"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 42,
+    "question": "Under the current investment-linked whole life plan, the policy has total flexibility to alter a policyholder’s need for investment and protection in accordance with the:",
+    "options": {
+      "A": "market trend",
+      "B": "insurer’s suggestion",
+      "C": "policyholder’s wishes",
+      "D": "change of law"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 43,
+    "question": "The deposit insurance system in Malaysia launched in September 2005 was managed by:",
+    "options": {
+      "A": "PIDM",
+      "B": "PIAM",
+      "C": "LIAM",
+      "D": "BNM"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 44,
+    "question": "Under the 1996 budget, an extra tax deduction of ______ was allowed for education and medical insurance premium.",
+    "options": {
+      "A": "RM3000",
+      "B": "RM6000",
+      "C": "RM9000",
+      "D": "RM5000"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 45,
+    "question": "If the bond fund is worth RM10 million and there are 2 million units, what will be the price per unit for the bond fund?",
+    "options": {
+      "A": "RM1",
+      "B": "RM3",
+      "C": "RM5",
+      "D": "RM7"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 46,
+    "question": "Mr. Nathan intends to buy a single premium investment-linked life policy with a single premium of RM50,000. He wants to redeem the policy’s value after eight years. Calculate the death cover now, if it’s based on sum assured cover only.",
+    "options": {
+      "A": "RM50,000",
+      "B": "RM62,500",
+      "C": "RM67,500",
+      "D": "RM51,000"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 47,
+    "question": "The switching facility provided in investment-linked life insurance policies is very useful for the purpose of:",
+    "options": {
+      "A": "Financial planning by policy owner",
+      "B": "Profit planning by life offices",
+      "C": "Sales planning by fund managers",
+      "D": "Assets planning by trustee"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 48,
+    "question": "What is the amount of life cover for Encik Ahmad who bought a single premium investment-linked whole life plan with RM20,000 single premium?",
+    "options": {
+      "A": "RM5,000",
+      "B": "RM10,000",
+      "C": "RM25,000",
+      "D": "RM30,000"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 49,
+    "question": "Which of the following criteria are normally used when comparing investment-linked life insurance policies with traditional policies?\nI. Policy loan\nII. Option to top up\nIII. Premium computation\nIV. Investment returns and risks",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, III and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 50,
+    "question": "In a proposal for whole-life or endowment assurance, which of the contract features below must be highlighted in the literature:\nI. That these are long term contracts\nII. That these are safe contracts\nIII. That the surrender values in the early years are often less than the total premium paid\nIV. These are mainly for life coverage",
+    "options": {
+      "A": "I and II",
+      "B": "III and IV",
+      "C": "I and III",
+      "D": "II and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 51,
+    "question": "Who has limited investment option?",
+    "options": {
+      "A": "A speculative investor",
+      "B": "A long term investor",
+      "C": "An investor with large funds available",
+      "D": "An investor with small fund available"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 52,
+    "question": "Investment-linked life insurance was introduced in Malaysia in the late:",
+    "options": {
+      "A": "1970s",
+      "B": "1980s",
+      "C": "1990s",
+      "D": "2000s"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 53,
+    "question": "The investment-linked insurance business is a contract of:",
+    "options": {
+      "A": "Investment in human life",
+      "B": "Insurance providing life coverage and investment return",
+      "C": "Investment in properties",
+      "D": "Life insurance"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 54,
+    "question": "Deposit insurance coverage includes the following, EXCEPT:",
+    "options": {
+      "A": "All current and saving deposit accounts and fixed deposits",
+      "B": "Foreign currency fixed deposit accounts",
+      "C": "Islamic and conventional fixed deposits",
+      "D": "Unit trust bought through the bank"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 55,
+    "question": "According to the textbook, there is a law that states that our investment returns are ________ to the risk we take.",
+    "options": {
+      "A": "Directly proportional",
+      "B": "Positively proportional",
+      "C": "Negatively proportional",
+      "D": "Indirectly proportional"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 56,
+    "question": "What is the term given to the strategy of placing money into several different categories of investment?",
+    "options": {
+      "A": "Diversification",
+      "B": "Hedging",
+      "C": "Profit maximization",
+      "D": "Risk control"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 57,
+    "question": "In times of volatile equity market, the cash and maturity values of an investment-linked life insurance policy will:\nI. Rise\nII. Fall drastically\nIII. Fluctuate slightly",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 58,
+    "question": "The term and the interest rate of government bond:",
+    "options": {
+      "A": "Are fixed",
+      "B": "Vary according to the amount invested",
+      "C": "Are negotiable",
+      "D": "Change in response to market trends"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 59,
+    "question": "From the statements about the similarities and differences between single premium investment-linked life insurance (SP-IL) and Unit Trust (UT) given below, select the statement that is not true.",
+    "options": {
+      "A": "EPF withdrawal is allowed for investment in both UTs and SP-IL",
+      "B": "Fund switching is allowed for both UTs and SP-IL",
+      "C": "A policy fee is charged only in the case of SP-IL",
+      "D": "Cost of insurance only applicable to SP-IL"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 60,
+    "question": "Investment-linked life insurance policies:",
+    "options": {
+      "A": "Lack the smoothing process of traditional with-profit life policies",
+      "B": "Have a greater smoothing process than traditional with-profit life policies",
+      "C": "Always receive greater investment returns than traditional with-profit life insurance",
+      "D": "Will never suffer any financial losses"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 61,
+    "question": "Who do buying and selling of shares for investors?",
+    "options": {
+      "A": "Insurance brokers",
+      "B": "Stock brokers",
+      "C": "Stock agents",
+      "D": "Share advisers"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 62,
+    "question": "What is the minimum age to apply own investment-linked life insurance policy?",
+    "options": {
+      "A": "17",
+      "B": "16",
+      "C": "18",
+      "D": "19"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 63,
+    "question": "Valuation of units in an investment-linked fund must be done _______.",
+    "options": {
+      "A": "Every day",
+      "B": "Every business day",
+      "C": "Every month",
+      "D": "Once a year"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 64,
+    "question": "If a policy is cancelled within the free look period, the insurer shall not refund:",
+    "options": {
+      "A": "The unallocated fund",
+      "B": "5% bonus",
+      "C": "Value of unit",
+      "D": "Any insurance charges and policy fee that have been deducted"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 65,
+    "question": "When can a unit split/combination be done?",
+    "options": {
+      "A": "Once in a financial year",
+      "B": "Once in a month",
+      "C": "Daily",
+      "D": "Every quarter"
+    },
+    "answer": "A"
+  }
+]
