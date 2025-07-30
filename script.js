@@ -7,6 +7,11 @@ fetch('ceillimock_set2.json')
   .then(data => {
     questions = data;
     loadProgress();
+    const savedQ = localStorage.getItem('lastQuestion');
+    if (savedQ) {
+      currentQuestion = parseInt(savedQ);
+      showResumeBanner();
+    }
     displayQuestion(currentQuestion);
   });
 
@@ -40,6 +45,9 @@ function displayQuestion(num) {
 
   document.getElementById('feedback').innerText = '';
   updateScoreDisplay();
+
+  // Save progress
+  localStorage.setItem('lastQuestion', currentQuestion);
 }
 
 function checkAnswer(button, selected, correct) {
@@ -112,4 +120,26 @@ function resetProgress() {
     currentQuestion = 1;
     displayQuestion(currentQuestion);
   }
+}
+
+function showResumeBanner() {
+  const banner = document.getElementById('resume-banner');
+  const closeBtn = document.getElementById('close-banner');
+
+  banner.style.display = 'block';
+
+  // Auto-hide after 5 seconds
+  const timer = setTimeout(() => {
+    banner.classList.add('fade-out');
+    setTimeout(() => {
+      banner.style.display = 'none';
+      banner.classList.remove('fade-out');
+    }, 500);
+  }, 5000);
+
+  // Manual close
+  closeBtn.onclick = () => {
+    clearTimeout(timer);
+    banner.style.display = 'none';
+  };
 }
