@@ -2,16 +2,14 @@ let currentQuestion = 1;
 let questions = [];
 let score = 0;
 
-fetch('ceillimock_set2.json')
+// 🔧 CHANGE THIS STRING when you switch to a different question set
+const SET_KEY = 'ceilliset2_eng'; // ← Change to 'set2_' or 'set3_' etc. for other sets
+
+fetch('ceillimock_set2.json') // Update filename if needed
   .then(response => response.json())
   .then(data => {
     questions = data;
     loadProgress();
-    const savedQ = localStorage.getItem('lastQuestion');
-    if (savedQ) {
-      currentQuestion = parseInt(savedQ);
-      showResumeBanner();
-    }
     displayQuestion(currentQuestion);
   });
 
@@ -19,7 +17,7 @@ function displayQuestion(num) {
   const q = questions[num - 1];
   if (!q) return;
 
-  document.getElementById('question-number').innerHTML = `Question ${q.questionNumber} <span class="total-count">of ${questions.length}</span>`;
+  document.getElementById('question-number').innerHTML = `Question ${q.questionNumber}<span class="total-count"> of ${questions.length}</span>`;
   document.getElementById('question-text').innerText = q.question;
 
   const optionsContainer = document.getElementById('options-container');
@@ -31,7 +29,7 @@ function displayQuestion(num) {
     btn.className = 'option';
     btn.disabled = false;
 
-    const savedAnswer = localStorage.getItem(`answer_${num}`);
+    const savedAnswer = localStorage.getItem(`${SET_KEY}answer_${num}`);
     if (savedAnswer) {
       btn.disabled = true;
       btn.classList.add('disabled');
@@ -45,9 +43,7 @@ function displayQuestion(num) {
 
   document.getElementById('feedback').innerText = '';
   updateScoreDisplay();
-
-  // Save progress
-  localStorage.setItem('lastQuestion', currentQuestion);
+  localStorage.setItem(`${SET_KEY}last_question`, currentQuestion);
 }
 
 function checkAnswer(button, selected, correct) {
@@ -65,13 +61,13 @@ function checkAnswer(button, selected, correct) {
 
   document.getElementById('feedback').innerText = `Correct answer: ${correct}`;
 
-  const previous = localStorage.getItem(`answer_${currentQuestion}`);
+  const previous = localStorage.getItem(`${SET_KEY}answer_${currentQuestion}`);
   if (!previous) {
     if (selected === correct) score++;
-    localStorage.setItem('score', score);
+    localStorage.setItem(`${SET_KEY}score`, score);
   }
 
-  localStorage.setItem(`answer_${currentQuestion}`, selected);
+  localStorage.setItem(`${SET_KEY}answer_${currentQuestion}`, selected);
   updateScoreDisplay();
 }
 
@@ -101,45 +97,62 @@ function goToQuestion() {
 
 function updateScoreDisplay() {
   const totalAnswered = questions.filter((_, i) =>
-    localStorage.getItem(`answer_${i + 1}`)
+    localStorage.getItem(`${SET_KEY}answer_${i + 1}`)
   ).length;
   document.getElementById('score-display').innerText = `Score: ${score} / ${totalAnswered}`;
 }
 
 function loadProgress() {
-  const savedScore = localStorage.getItem('score');
+  const savedScore = localStorage.getItem(`${SET_KEY}score`);
   if (savedScore !== null) {
     score = parseInt(savedScore);
+  }
+
+  const lastSeen = localStorage.getItem(`${SET_KEY}last_question`);
+  if (lastSeen) {
+    currentQuestion = parseInt(lastSeen);
+    showResumeBanner(currentQuestion);
   }
 }
 
 function resetProgress() {
   if (confirm('Are you sure you want to clear all your answers and restart?')) {
-    localStorage.clear();
+    for (let i = 1; i <= questions.length; i++) {
+      localStorage.removeItem(`${SET_KEY}answer_${i}`);
+    }
+    localStorage.removeItem(`${SET_KEY}score`);
+    localStorage.removeItem(`${SET_KEY}last_question`);
     score = 0;
     currentQuestion = 1;
     displayQuestion(currentQuestion);
   }
 }
 
-function showResumeBanner() {
+// ✅ Use existing HTML <div id="resume-banner"> instead of injecting a new one
+function showResumeBanner(savedQ) {
   const banner = document.getElementById('resume-banner');
-  const closeBtn = document.getElementById('close-banner');
+  if (!banner) return;
 
   banner.style.display = 'block';
+  banner.innerHTML = `
+    Resumed from your last session at Question ${savedQ}.
+    <span class="close-btn" onclick="dismissResumeBanner()">×</span>
+  `;
 
-  // Auto-hide after 5 seconds
-  const timer = setTimeout(() => {
+  // ⏱ Auto-hide after 5 seconds
+  setTimeout(() => {
     banner.classList.add('fade-out');
     setTimeout(() => {
       banner.style.display = 'none';
-      banner.classList.remove('fade-out');
-    }, 500);
-  }, 5000);
+      banner.classList.remove('fade-out'); // Reset for future use
+    }, 500); // match fade-out duration in CSS
+  }, 5000); // wait 5 seconds before fading out
+}
 
-  // Manual close
-  closeBtn.onclick = () => {
-    clearTimeout(timer);
+// ✅ Close banner handler
+function dismissResumeBanner() {
+  const banner = document.getElementById('resume-banner');
+  if (banner) {
     banner.style.display = 'none';
-  };
+  }
 }
