@@ -3,9 +3,9 @@ let questions = [];
 let score = 0;
 
 // 🔧 CHANGE THIS STRING when you switch to a different question set
-const SET_KEY = 'ceilliset1_eng'; // ← Change to 'set2_' or 'set3_' etc. for other sets
+const SET_KEY = 'ceilliset2_eng'; // ← Change to 'set2_' or 'set3_' etc. for other sets
 
-fetch('ceillimock_set1.json') // Update filename if needed
+fetch('ceillimock_set2.json') // Update filename if needed
   .then(response => response.json())
   .then(data => {
     questions = data;
